@@ -31,7 +31,6 @@ SuperMath.prototype.check = function (obj) {
         }
       } else {
         console.log("Введены не цифры");
-        return;
       }
     }
 }
